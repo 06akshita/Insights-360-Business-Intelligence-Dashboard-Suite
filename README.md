@@ -1,4 +1,4 @@
-Insights 360 – Business Intelligence Dashboard Suite
+Insights 360 – Business Intelligence Dashboard Suite:
 Project Overview:
   Insights 360 is an end-to-end Business Intelligence solution developed in Power BI to provide a comprehensive view of organizational performance across key           business functions. The project integrates data from Sales, Finance, Marketing, Executive Management, and Supply Chain domains into a unified analytics platform,     enabling data-driven decision-making through interactive dashboards and KPI monitoring.
   The solution is designed to help stakeholders analyze revenue, profitability, customer performance, product trends, market share, forecasting accuracy, and           operational risks across multiple regions, products, and customer segments.
